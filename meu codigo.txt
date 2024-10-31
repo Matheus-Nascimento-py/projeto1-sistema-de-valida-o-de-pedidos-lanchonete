@@ -1,6 +1,6 @@
 # Mensagem de saudação + menu forecido ao cliente
 
-print('BEM VINDO A SUA LANCHONETE FAVORITA!')
+print('BEM VINDO A SUA LANCHONETE FAVORITA!!!')
 menu = ['Hamburguer P', 'Hamburguer M', 'Hamburguer G', 
          'Batata P', 'Batata M', 'Batata G', 
          'Refrigerante', 'Suco', 'Sobremesa']
